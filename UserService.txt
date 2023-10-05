@@ -1,1 +1,2 @@
 accept user data as input
+process data
