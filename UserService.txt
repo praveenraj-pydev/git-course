@@ -1,2 +1,4 @@
 accept user data as input
 process data
+
+create an avatar for users
